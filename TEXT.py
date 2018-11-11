@@ -18,3 +18,5 @@ class FapStuden():
 yuyue = FapStuden()
 #對象執行函數
 yuyue.Fap()
+print("txt")
+#測試
